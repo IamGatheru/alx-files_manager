@@ -29,3 +29,4 @@ Mocha is used in combination with Chai for testing the app.
 ## Authors
 Emediong Francis: emediongfrancis@gmail.com <br>
 Divine Chisom Ukonu: divinechisom1995@gmail.com
+David Gatheru: davidgatheru490@gmail.com
